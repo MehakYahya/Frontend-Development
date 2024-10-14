@@ -17,4 +17,3 @@ Welcome to my **Frontend Developer Portfolio**! This repository serves as a coll
 - **GitHub**:(https://github.com/MehakYahya)
   
 - **LinkedIn**: [www.linkedin.com/in/mehak-yahya-424aba281)  
-  Connect with me for professional networking and collaboration.
