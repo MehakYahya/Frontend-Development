@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-color: azure;
+  
+}
+.container{
+  margin: auto;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-center{
+  text-align: center;
+  color: rgb(103, 96, 157);
+  font-family:Arial, Helvetica, sans-serif;
+  font-style:oblique;
+}
+
+
+
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 4px 3px;
+  border: 2px solid black;
+  border-radius: 35px;
+  cursor: pointer;
+font-size: 20px;
+color:white;
+  background-color: grey;
+}
+.button:hover{
+  background: transparent;
+  box-shadow: 0 0 20px 5px;
+  color: #3ad99f;
+}
+
+
+.mathButtons {
+    width: 66px;
+    padding: 20px;
+    margin: 4px 3px;
+    border: 2px solid black;
+    border-radius: 35px;
+    cursor: pointer;
+  font-size: 20px;
+  color:white;
+    background-color: rgb(219, 164, 61);
+}
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 40px;
+  text-align: right ;
+    margin: 0;
+    padding: 40px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+div{
+  background-color: rgb(49, 46, 46);
+  width: 300px;
+padding: 0 30px;
+ padding-top: 10px;
+ border-radius: 50px;
+}
+.input{
+  background-color:rgb(103, 97, 97);
+  color:white;
+}
