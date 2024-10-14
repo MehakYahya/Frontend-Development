@@ -1,6 +1,6 @@
 
 
-**Calculator**
+**CALCULATOR USING HTML, CSS, JAVASCRIPT**
 
 A basic calculator built using HTML, CSS, and JavaScript. This project demonstrates the functionality of a simple calculator, which can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
